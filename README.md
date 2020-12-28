@@ -1,12 +1,13 @@
 
 # BMI Calculator 💪
 
+Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It is a multi screen app with simple functionality but full-on custom styling. 
+
+
 ## Goal of project
 
 The objective of this project was to look at how we can customise Flutter Widgets to achieve our own beautiful user interface designs.
 This project was a challenge project as part of Flutter bootcamp on Udemy.
-
-This App is a Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling. 
 
 ## What I learned from this project
 
